@@ -1,0 +1,17 @@
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\bin\Debug\Gestor_De_Datos.exe.config
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\bin\Debug\Gestor_De_Datos.exe
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\bin\Debug\Gestor_De_Datos.pdb
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.csproj.AssemblyReference.cache
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.GestorDeDatos.resources
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.Properties.Resources.resources
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.csproj.GenerateResource.cache
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.csproj.CoreCompileInputs.cache
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.exe
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.pdb
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.NuevoArticulo.resources
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\bin\Debug\AccesoDatosSQL.dll
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\bin\Debug\DominioClases.dll
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\bin\Debug\AccesoDatosSQL.pdb
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\bin\Debug\DominioClases.pdb
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_D.5A39AA70.Up2Date
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\Gestor_De_Datos\obj\Debug\Gestor_De_Datos.DetalleArticulo.resources

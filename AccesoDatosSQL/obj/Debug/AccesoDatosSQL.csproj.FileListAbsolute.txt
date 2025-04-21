@@ -1,0 +1,9 @@
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\bin\Debug\AccesoDatosSQL.dll
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\bin\Debug\AccesoDatosSQL.pdb
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\bin\Debug\DominioClases.dll
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\bin\Debug\DominioClases.pdb
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\obj\Debug\AccesoDatosSQL.csproj.AssemblyReference.cache
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\obj\Debug\AccesoDatosSQL.csproj.CoreCompileInputs.cache
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\obj\Debug\AccesoDa.46852E70.Up2Date
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\obj\Debug\AccesoDatosSQL.dll
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\AccesoDatosSQL\obj\Debug\AccesoDatosSQL.pdb

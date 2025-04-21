@@ -1,0 +1,6 @@
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\DominioDeClases\bin\Debug\DominioClases.dll
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\DominioDeClases\bin\Debug\DominioClases.pdb
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\DominioDeClases\obj\Debug\DominioClases.csproj.AssemblyReference.cache
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\DominioDeClases\obj\Debug\DominioClases.csproj.CoreCompileInputs.cache
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\DominioDeClases\obj\Debug\DominioClases.dll
+D:\Becker\Documents\Programming\Maxi_Programa\.NET+SQL\TPFinalNivel2_GuevaraMolina\DominioDeClases\obj\Debug\DominioClases.pdb
